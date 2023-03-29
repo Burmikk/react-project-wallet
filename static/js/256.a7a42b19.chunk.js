@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwallet=self.webpackChunkwallet||[]).push([[256],{9256:function(e,t,a){a.r(t);var n=a(5615),f=a(184);t.default=function(){return(0,f.jsx)("img",{src:n,alt:"page not found"})}},5615:function(e,t,a){e.exports=a.p+"static/media/404.a112e54ef6a05e9f64cf.jpg"}}]);
+//# sourceMappingURL=256.a7a42b19.chunk.js.map

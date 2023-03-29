@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwallet=self.webpackChunkwallet||[]).push([[292],{9292:function(e,s,t){t.r(s),t.d(s,{default:function(){return c}});var l=t(1087),r=t(7689),u="Auth_mobileWrapper__FIP6m",a="Auth_logo__krBPq",n=t(184),c=function(){return(0,n.jsxs)("div",{className:u,children:[(0,n.jsx)(l.rU,{to:"/",className:a}),(0,n.jsx)(r.j3,{})]})}}}]);
+//# sourceMappingURL=292.e1eb52e3.chunk.js.map
