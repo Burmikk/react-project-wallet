@@ -38,7 +38,7 @@ const Statistic = () => {
   return (
     <Transition type="opacity" showIt={showIt} setShowIt={setShowIt}>
       <div className={styles.statistic_container}>
-        <h2 className={styles.title}>Statistic</h2>
+        <h2 className={styles.title}>Statistics</h2>
         <div className={styles.wrapper}>
           <div className={styles.chart}>
             <Chart className={styles.chart} transactions={statisticsData} />
