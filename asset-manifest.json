@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-project-wallet/static/css/main.1b253b00.css",
-    "main.js": "/react-project-wallet/static/js/main.5b52a840.js",
+    "main.js": "/react-project-wallet/static/js/main.1a0827ce.js",
     "static/js/256.a7a42b19.chunk.js": "/react-project-wallet/static/js/256.a7a42b19.chunk.js",
     "static/css/823.4ff6442e.chunk.css": "/react-project-wallet/static/css/823.4ff6442e.chunk.css",
     "static/js/823.05e3a766.chunk.js": "/react-project-wallet/static/js/823.05e3a766.chunk.js",
@@ -10,7 +10,7 @@
     "static/css/594.1412cc45.chunk.css": "/react-project-wallet/static/css/594.1412cc45.chunk.css",
     "static/js/594.1c6335be.chunk.js": "/react-project-wallet/static/js/594.1c6335be.chunk.js",
     "static/css/905.f5df81c5.chunk.css": "/react-project-wallet/static/css/905.f5df81c5.chunk.css",
-    "static/js/905.dd005cd6.chunk.js": "/react-project-wallet/static/js/905.dd005cd6.chunk.js",
+    "static/js/905.03fc8a08.chunk.js": "/react-project-wallet/static/js/905.03fc8a08.chunk.js",
     "static/css/988.09775025.chunk.css": "/react-project-wallet/static/css/988.09775025.chunk.css",
     "static/js/988.d6f03851.chunk.js": "/react-project-wallet/static/js/988.d6f03851.chunk.js",
     "static/js/805.5b17f35a.chunk.js": "/react-project-wallet/static/js/805.5b17f35a.chunk.js",
@@ -42,7 +42,7 @@
     "static/media/user.svg": "/react-project-wallet/static/media/user.f1e05e99f50d21e51a361d7733032eb3.svg",
     "static/media/email.svg": "/react-project-wallet/static/media/email.b98c8bcbc969547a44a84df00810a290.svg",
     "main.1b253b00.css.map": "/react-project-wallet/static/css/main.1b253b00.css.map",
-    "main.5b52a840.js.map": "/react-project-wallet/static/js/main.5b52a840.js.map",
+    "main.1a0827ce.js.map": "/react-project-wallet/static/js/main.1a0827ce.js.map",
     "256.a7a42b19.chunk.js.map": "/react-project-wallet/static/js/256.a7a42b19.chunk.js.map",
     "823.4ff6442e.chunk.css.map": "/react-project-wallet/static/css/823.4ff6442e.chunk.css.map",
     "823.05e3a766.chunk.js.map": "/react-project-wallet/static/js/823.05e3a766.chunk.js.map",
@@ -51,7 +51,7 @@
     "594.1412cc45.chunk.css.map": "/react-project-wallet/static/css/594.1412cc45.chunk.css.map",
     "594.1c6335be.chunk.js.map": "/react-project-wallet/static/js/594.1c6335be.chunk.js.map",
     "905.f5df81c5.chunk.css.map": "/react-project-wallet/static/css/905.f5df81c5.chunk.css.map",
-    "905.dd005cd6.chunk.js.map": "/react-project-wallet/static/js/905.dd005cd6.chunk.js.map",
+    "905.03fc8a08.chunk.js.map": "/react-project-wallet/static/js/905.03fc8a08.chunk.js.map",
     "988.09775025.chunk.css.map": "/react-project-wallet/static/css/988.09775025.chunk.css.map",
     "988.d6f03851.chunk.js.map": "/react-project-wallet/static/js/988.d6f03851.chunk.js.map",
     "805.5b17f35a.chunk.js.map": "/react-project-wallet/static/js/805.5b17f35a.chunk.js.map",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.1b253b00.css",
-    "static/js/main.5b52a840.js"
+    "static/js/main.1a0827ce.js"
   ]
 }
