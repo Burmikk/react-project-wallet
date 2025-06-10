@@ -22,7 +22,8 @@ const Balance = () => {
     <div className={styles.balance}>
       <span className={styles.title}>Your balance</span>
       <p className={styles.amount}>
-        <span className={styles.currency}>&#8372;</span> {currentBallance}
+        <span className={styles.currency}>&#8372;</span>{' '}
+        {currentBallance.toFixed(2)}
       </p>
     </div>
   );
